@@ -2,7 +2,7 @@
 name: 🚀 Feature Request
 about: Suggest an idea (feat)
 title: 'feat: <short description>'
-labels: feat
+labels: enhancement
 ---
 
 ### 🟢 User Story
